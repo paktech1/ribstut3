@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.uber.rib.tutorial1.tutorial3-merged_res-7:/layout_logged_out_rib.xml.flat",
+        "source": "com.uber.rib.tutorial1.tutorial3-main-9:/layout/logged_out_rib.xml"
+    },
+    {
+        "merged": "com.uber.rib.tutorial1.tutorial3-merged_res-7:/layout_off_game_rib.xml.flat",
+        "source": "com.uber.rib.tutorial1.tutorial3-main-9:/layout/off_game_rib.xml"
+    },
+    {
+        "merged": "com.uber.rib.tutorial1.tutorial3-merged_res-7:/drawable-mdpi_ub__ic_launcher.png.flat",
+        "source": "com.uber.rib.tutorial1.tutorial3-main-9:/drawable-mdpi/ub__ic_launcher.png"
+    },
+    {
+        "merged": "com.uber.rib.tutorial1.tutorial3-merged_res-7:/layout_tic_tac_toe_rib.xml.flat",
+        "source": "com.uber.rib.tutorial1.tutorial3-main-9:/layout/tic_tac_toe_rib.xml"
+    },
+    {
+        "merged": "com.uber.rib.tutorial1.tutorial3-merged_res-7:/drawable-xxhdpi_ub__ic_launcher.png.flat",
+        "source": "com.uber.rib.tutorial1.tutorial3-main-9:/drawable-xxhdpi/ub__ic_launcher.png"
+    },
+    {
+        "merged": "com.uber.rib.tutorial1.tutorial3-merged_res-7:/drawable-xhdpi_ub__ic_launcher.png.flat",
+        "source": "com.uber.rib.tutorial1.tutorial3-main-9:/drawable-xhdpi/ub__ic_launcher.png"
+    },
+    {
+        "merged": "com.uber.rib.tutorial1.tutorial3-merged_res-7:/layout_root_rib.xml.flat",
+        "source": "com.uber.rib.tutorial1.tutorial3-main-9:/layout/root_rib.xml"
+    },
+    {
+        "merged": "com.uber.rib.tutorial1.tutorial3-merged_res-7:/drawable-hdpi_ub__ic_launcher.png.flat",
+        "source": "com.uber.rib.tutorial1.tutorial3-main-9:/drawable-hdpi/ub__ic_launcher.png"
+    },
+    {
+        "merged": "com.uber.rib.tutorial1.tutorial3-merged_res-7:/drawable-xxxhdpi_ub__ic_launcher.png.flat",
+        "source": "com.uber.rib.tutorial1.tutorial3-main-9:/drawable-xxxhdpi/ub__ic_launcher.png"
+    }
+]

@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:3:1-28:12
+MERGED from [:libraries:rib-android] C:\Users\US\Desktop\RIBs-main\RIBs-main\android\libraries\rib-android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:libraries:rib-android-core] C:\Users\US\Desktop\RIBs-main\RIBs-main\android\libraries\rib-android-core\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] D:\android\caches\transforms-3\a19f2a8df21535b5a2c5eba455f38443\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] D:\android\caches\transforms-3\b0c4100c4006274dd309d943530fa741\transformed\jetified-rxbinding-2.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] D:\android\caches\transforms-3\47ada96f4a8252df7447cd90146cd5f3\transformed\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.0] D:\android\caches\transforms-3\ca7209a0645e5cc9789206abe86cba36\transformed\jetified-rxandroid-2.0.0\AndroidManifest.xml:15:1-21:12
+MERGED from [androidx.fragment:fragment:1.3.4] D:\android\caches\transforms-3\d1e36111b45cac3fd0070385c86b3862\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] D:\android\caches\transforms-3\651b6eebb011d1cf2a9adbb94c5b612a\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] D:\android\caches\transforms-3\26ba7c8350f06e34879bb72bc7804cf4\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\android\caches\transforms-3\1b5de8e46175e3694c1a589be05b2938\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\android\caches\transforms-3\18221edd86437e29824e730c0b232817\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\android\caches\transforms-3\5aee9b3679bde749415d95615c5ea57c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\android\caches\transforms-3\9d3a4ffa4c91d635e9fa102d65d84389\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\android\caches\transforms-3\ac4ce1642d4bb56d9ef46ff96937a4d4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] D:\android\caches\transforms-3\49c2304166124b3219ae6d3c27bda29f\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] D:\android\caches\transforms-3\b8635c72fcc74754a964997a15608f2e\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\android\caches\transforms-3\727efc96a51e460da786b1797409f32c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\android\caches\transforms-3\77ee970d600f71d2538b2f3b033c5121\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\android\caches\transforms-3\eefba9b242e9cc1c536ccb7c28953266\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\android\caches\transforms-3\204e933bb2694cbdee43c86e05dea437\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\android\caches\transforms-3\1d197af70cfc1bed3ef6ba0ff6d3e40c\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\android\caches\transforms-3\0388bb09d5275c8f3555611f4b6abd5d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\android\caches\transforms-3\a9bb309e64aa442e4411d25dc1b2200e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\android\caches\transforms-3\91b0977dd6d43a44303e58678760433d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\android\caches\transforms-3\ccf3ab8e0b22f8e66ba3cf44b63f8956\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\android\caches\transforms-3\93f181f84e209624c60a147bd017f111\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\android\caches\transforms-3\a56fd72ef143712347c0113d6f02ec9d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\android\caches\transforms-3\dfaf6b6fcc9bc5c26bc6d1b7c7cdaa59\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:3:1-28:12
+	package
+		INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:3:1-28:12
+		INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:3:1-28:12
+		INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:4:11-57
+	android:versionCode
+		INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:3:1-28:12
+		INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:3:11-69
+uses-feature#0x00020000
+ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:6:5-77
+	android:glEsVersion
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:6:43-75
+	android:required
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:6:19-42
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:11:5-27:19
+MERGED from [androidx.core:core:1.5.0] D:\android\caches\transforms-3\b8635c72fcc74754a964997a15608f2e\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] D:\android\caches\transforms-3\b8635c72fcc74754a964997a15608f2e\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\android\caches\transforms-3\0388bb09d5275c8f3555611f4b6abd5d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\android\caches\transforms-3\0388bb09d5275c8f3555611f4b6abd5d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:screenOrientation
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:16:9-45
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] D:\android\caches\transforms-3\b8635c72fcc74754a964997a15608f2e\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:14:9-49
+	android:allowBackup
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:13:9-36
+	android:theme
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:17:9-53
+	tools:replace
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:18:9-38
+	android:name
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:12:9-54
+activity#com.uber.rib.RootActivity
+ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:19:9-26:20
+	android:exported
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:20:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+MERGED from [:libraries:rib-android] C:\Users\US\Desktop\RIBs-main\RIBs-main\android\libraries\rib-android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:libraries:rib-android] C:\Users\US\Desktop\RIBs-main\RIBs-main\android\libraries\rib-android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:libraries:rib-android-core] C:\Users\US\Desktop\RIBs-main\RIBs-main\android\libraries\rib-android-core\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:libraries:rib-android-core] C:\Users\US\Desktop\RIBs-main\RIBs-main\android\libraries\rib-android-core\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] D:\android\caches\transforms-3\a19f2a8df21535b5a2c5eba455f38443\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] D:\android\caches\transforms-3\a19f2a8df21535b5a2c5eba455f38443\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] D:\android\caches\transforms-3\b0c4100c4006274dd309d943530fa741\transformed\jetified-rxbinding-2.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.0.0] D:\android\caches\transforms-3\b0c4100c4006274dd309d943530fa741\transformed\jetified-rxbinding-2.0.0\AndroidManifest.xml:6:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] D:\android\caches\transforms-3\47ada96f4a8252df7447cd90146cd5f3\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] D:\android\caches\transforms-3\47ada96f4a8252df7447cd90146cd5f3\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.0] D:\android\caches\transforms-3\ca7209a0645e5cc9789206abe86cba36\transformed\jetified-rxandroid-2.0.0\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.0] D:\android\caches\transforms-3\ca7209a0645e5cc9789206abe86cba36\transformed\jetified-rxandroid-2.0.0\AndroidManifest.xml:19:5-43
+MERGED from [androidx.fragment:fragment:1.3.4] D:\android\caches\transforms-3\d1e36111b45cac3fd0070385c86b3862\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] D:\android\caches\transforms-3\d1e36111b45cac3fd0070385c86b3862\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] D:\android\caches\transforms-3\651b6eebb011d1cf2a9adbb94c5b612a\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] D:\android\caches\transforms-3\651b6eebb011d1cf2a9adbb94c5b612a\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] D:\android\caches\transforms-3\26ba7c8350f06e34879bb72bc7804cf4\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] D:\android\caches\transforms-3\26ba7c8350f06e34879bb72bc7804cf4\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\android\caches\transforms-3\1b5de8e46175e3694c1a589be05b2938\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\android\caches\transforms-3\1b5de8e46175e3694c1a589be05b2938\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\android\caches\transforms-3\18221edd86437e29824e730c0b232817\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\android\caches\transforms-3\18221edd86437e29824e730c0b232817\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\android\caches\transforms-3\5aee9b3679bde749415d95615c5ea57c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\android\caches\transforms-3\5aee9b3679bde749415d95615c5ea57c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\android\caches\transforms-3\9d3a4ffa4c91d635e9fa102d65d84389\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\android\caches\transforms-3\9d3a4ffa4c91d635e9fa102d65d84389\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\android\caches\transforms-3\ac4ce1642d4bb56d9ef46ff96937a4d4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\android\caches\transforms-3\ac4ce1642d4bb56d9ef46ff96937a4d4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] D:\android\caches\transforms-3\49c2304166124b3219ae6d3c27bda29f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\android\caches\transforms-3\49c2304166124b3219ae6d3c27bda29f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] D:\android\caches\transforms-3\b8635c72fcc74754a964997a15608f2e\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] D:\android\caches\transforms-3\b8635c72fcc74754a964997a15608f2e\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\android\caches\transforms-3\727efc96a51e460da786b1797409f32c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\android\caches\transforms-3\727efc96a51e460da786b1797409f32c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\android\caches\transforms-3\77ee970d600f71d2538b2f3b033c5121\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\android\caches\transforms-3\77ee970d600f71d2538b2f3b033c5121\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\android\caches\transforms-3\eefba9b242e9cc1c536ccb7c28953266\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\android\caches\transforms-3\eefba9b242e9cc1c536ccb7c28953266\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\android\caches\transforms-3\204e933bb2694cbdee43c86e05dea437\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\android\caches\transforms-3\204e933bb2694cbdee43c86e05dea437\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\android\caches\transforms-3\1d197af70cfc1bed3ef6ba0ff6d3e40c\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\android\caches\transforms-3\1d197af70cfc1bed3ef6ba0ff6d3e40c\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\android\caches\transforms-3\0388bb09d5275c8f3555611f4b6abd5d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\android\caches\transforms-3\0388bb09d5275c8f3555611f4b6abd5d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\android\caches\transforms-3\a9bb309e64aa442e4411d25dc1b2200e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\android\caches\transforms-3\a9bb309e64aa442e4411d25dc1b2200e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\android\caches\transforms-3\91b0977dd6d43a44303e58678760433d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\android\caches\transforms-3\91b0977dd6d43a44303e58678760433d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\android\caches\transforms-3\ccf3ab8e0b22f8e66ba3cf44b63f8956\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\android\caches\transforms-3\ccf3ab8e0b22f8e66ba3cf44b63f8956\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\android\caches\transforms-3\93f181f84e209624c60a147bd017f111\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\android\caches\transforms-3\93f181f84e209624c60a147bd017f111\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\android\caches\transforms-3\a56fd72ef143712347c0113d6f02ec9d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\android\caches\transforms-3\a56fd72ef143712347c0113d6f02ec9d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\android\caches\transforms-3\dfaf6b6fcc9bc5c26bc6d1b7c7cdaa59\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\android\caches\transforms-3\dfaf6b6fcc9bc5c26bc6d1b7c7cdaa59\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+		ADDED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\US\Desktop\RIBs-main\RIBs-main\android\tutorials\tutorial3\src\main\AndroidManifest.xml

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.uber.rib.tutorial1.tutorial3-mergeDebugResources-5:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\android\\caches\\transforms-3\\a19f2a8df21535b5a2c5eba455f38443\\transformed\\appcompat-1.3.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
